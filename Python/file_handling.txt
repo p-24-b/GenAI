@@ -1,2 +1,3 @@
-Hi this is Pranav Bajpai here.
-This file has been created as a part of file reading lectures of Python as a pre-requisite.
+Hi this is Pranav Bajpai
+I am a student of B.Tech in Metallurgical Engineering
+I am currently learning Python programming language

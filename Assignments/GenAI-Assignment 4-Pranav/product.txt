@@ -1,0 +1,4 @@
+Product|Price
+Apple I phone|2500
+Orange|24
+Airfryer|50
